@@ -1,1 +1,4 @@
-# data_science_from_scratch
+# Data Science From Scratch
+This repo contains my code and notes made when working through <a href = "https://github.com/joelgrus">Joel Grus</a>' book *<a href = "https://github.com/joelgrus/data-science-from-scratch">Data Science From Scratch</a>*.
+
+The premise of the book is to work through core data science concepts such as linear algebra, probability, statistics, machine learning, web-scraping, regression, clustering, decision trees, MapReduce etc. from the ground up, writing the code in 'pure' Python (<i>from scratch</i>) instead of relying on the standard pre-built libraries for data science (e.g. numpy, pandas, sklearn, etc). In this way it is intended to give a deeper understanding of the core concepts underpinning these techniques, so as to give more confidence in using those standard libraries with an understanding of what is going on 'under the hood'.
